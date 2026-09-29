@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "titulo": "A menina que roubava livros",
+        "descrição": "A trajetória de Liesel Meminger é contada por uma narradora mórbida, surpreendentemente simpática.",
+        "autor": "Vera Ribeiro "
+        
+    },
+    {
+        "id": 2,
+        "titulo": "Extraordinário",
+        "descrição": "August Pullman, o Auggie, nasceu com uma síndrome genética cuja sequela é uma severa deformidade facial.",
+        "autor": " R. J. Palacio "
+       
+    },
+    {
+        "id": 3,
+       "titulo": "O Meu Pé de Laranja Lima",
+        "descrição": "Um clássico da literatura brasileira, com adaptações para a televisão, o cinema e o teatro.",
+        "autor": "José Mauro de Vasconcelos"
+      
+    },
+    {
+        "id": 4,
+        "titulo": "A hora da estrela",
+        "descrição": "Pouco antes de morrer, em 1977, Clarice Lispector decide se afastar da inflexão intimista que caracteriza sua escrita para desafiar a realidade. ",
+        "autor": " Clarice Lispecto"
+       
+    },
+    {
+        "id": 5,
+        "titulo": "A Metamorfose",
+        "descrição": "O caixeiro-viajante Gregor acorda metamorfoseado em um enorme inseto e percebe que tudo mudou e não só em sua vida, mas no mundo.",
+        "autor": "Franz Kafka"
+       
+    },
+    {
+        "id": 6,
+        "titulo": "Memórias póstumas de Brás Cubas",
+        "descrição": "Não tive filhos, não transmiti a nenhuma criatura o legado da nossa miséria. Com essas palavras, o narrador de Memórias Póstumas de Brás Cubas resume a sua vida",
+        "autor": "Machado de Assis "
+      
+    },
+    {
+        "id": 7,
+        "titulo": "O cortiço",
+        "descrição": "Pobreza, corrupção, injustiça, traição são elementos integram O cortiço, principal obra do Naturalismo brasileiro.",
+        "autor": "Aluísio Azevedo"
+        
+    }
+]
